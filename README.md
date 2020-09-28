@@ -1,4 +1,4 @@
-A game app based on the "Pig Dice Game". 
-Written on HTML,CSS and JavaScript (ES5)
+A game based on the Piggy Game".  
+Part of the Complete Javascript Course on Udemy.com by Jonas Schmedtmann
 
 https://edselpinpin.github.io/gameApp/
